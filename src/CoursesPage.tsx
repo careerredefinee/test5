@@ -26,7 +26,7 @@ const CoursesPage = () => {
 
       {/* Badge */}
       <p className="mt-4 inline-flex items-center gap-2 text-sm text-gray-700 bg-gray-100 border border-gray-200 rounded-full px-6 py-2 shadow-sm">
-        🎯 Only 30 Seats | 🎤 Interview-Based Shortlisting
+         Only 30 Seats | 🎤 Interview-Based Shortlisting
       </p>
 
       {/* Heading */}
@@ -40,7 +40,7 @@ const CoursesPage = () => {
           href="/support#booking"
           className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-gradient-to-r from-blue-600 to-blue-500 text-white font-bold shadow-md hover:shadow-xl transition transform hover:-translate-y-1"
         >
-          🚀 Book Interview
+           Book Interview
         </a>
       </div>
     </div>

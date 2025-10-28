@@ -41,7 +41,7 @@ const OfferBanner = () => {
     <div className="bg-gradient-to-r from-purple-600 to-blue-500 text-white py-3 text-center">
       <div className="container mx-auto px-4">
         <p className="font-semibold text-sm md:text-base">
-          ✨ Limited-Time Offer! Get 20% off on all courses. Ends in
+           Limited-Time Offer! Get 20% off on all courses. Ends in
           <span className="ml-2 font-bold">
             {timeLeft.days}d {timeLeft.hours}h {timeLeft.minutes}m {timeLeft.seconds}s
           </span>
